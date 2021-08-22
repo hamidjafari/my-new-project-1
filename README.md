@@ -25,7 +25,7 @@ More kind of solution needed (environment, time, etc.) More kind of needs should
 
 Becouse images will make README look nice! There is a cat:
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/e/e5/Audi_AI-Trail_quattro_Concept_IAA_2019_JM_0854.jpg" width="300">
+<img src="https://commons.wikimedia.org/wiki/File:Mercury_Marquis_BW_2016-07-17_13-06-12.jpg" width="300">
 
 ## Data sources and AI methods
 
