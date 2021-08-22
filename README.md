@@ -25,7 +25,7 @@ More kind of solution needed (environment, time, etc.) More kind of needs should
 
 Becouse images will make README look nice! There is a cat:
 
-<img src="https://commons.wikimedia.org/wiki/File:Mercury_Marquis_BW_2016-07-17_13-06-12.jpg" width="300">
+![Mercury_Marquis_BW_2016-07-17_13-06-12](https://user-images.githubusercontent.com/28865612/130359019-e4f21cc4-56fb-4fc8-8f3e-1c4e741e3574.jpg)
 
 ## Data sources and AI methods
 
