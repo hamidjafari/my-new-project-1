@@ -24,6 +24,22 @@ Becouse images will make README look nice! There is a cat:
 
 ![Mercury_Marquis_BW_2016-07-17_13-06-12](https://user-images.githubusercontent.com/28865612/130359019-e4f21cc4-56fb-4fc8-8f3e-1c4e741e3574.jpg)
 
+If you need to resize images, you have to use an HTML tag, like this:
+
+<img src="https://user-images.githubusercontent.com/28865612/130359019-e4f21cc4-56fb-4fc8-8f3e-1c4e741e3574.jpg" width="300">
+
+This is how you create code examples:
+
+```
+def main():
+const examples = (props) => {
+return (
+<ReactComponoet props={props}>
+)
+export default examples
+main()
+```
+
 ## Data sources and AI methods
 
 This data come from finished training course. 
