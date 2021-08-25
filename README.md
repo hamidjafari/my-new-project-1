@@ -14,7 +14,7 @@ This is my final project for the course Building AI from Reaktor and the Univers
 
 ## Background
 
-In my last job I nedded to find the most similar pair of lines. This was the best way.
+I am full stack developer in Sounentieto
 
 ## How is it used?
 
