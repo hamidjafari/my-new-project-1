@@ -10,10 +10,7 @@ Final project for the Building AI course
 
 ## Summary
 
-This work finding the most similar pair of lines and the tf-idf representation.
-This program uses the tf-idf vectors to find the most similar pair of lines in a given data set. 
-This work required a bit more work than average. 
-
+This is my final project for the course Building AI from Reaktor and the University of Helsinki.
 
 ## Background
 
