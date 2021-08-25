@@ -42,9 +42,9 @@ main()
 
 ## Data sources and AI methods
 
-Where does your data come from? Do you collect it yourself or do you use data collected by someone else?
+Where does your data come from?you can use other apps API's like [Instagram API](https://developers.facebook.com/docs/instagram-basic-display-api)
 If you need to use links, here's an example:
-[Instagram API](https://developers.facebook.com/docs/instagram-basic-display-api)
+
 
 | Syntax      | Description |
 | ----------- | ----------- |
@@ -54,7 +54,21 @@ If you need to use links, here's an example:
 
 ## Challenges
 
-There is no limit.
+for using the graph you can use like this:
+
+<!-- <Flowchart> -->
+<tr><td colspan=2 align="center">
+    <b>Flow</b></br>
+    [<a href="http://mermaid-js.github.io/mermaid/#/flowchart">docs</a> - <a href="https://mermaidjs.github.io/mermaid-live-editor/#/edit/eyJjb2RlIjoiZ3JhcGggVERcbiAgICBBW0hhcmRdIC0tPnxUZXh0fCBCKFJvdW5kKVxuICAgIEIgLS0-IEN7RGVjaXNpb259XG4gICAgQyAtLT58T25lfCBEW1Jlc3VsdCAxXVxuICAgIEMgLS0-fFR3b3wgRVtSZXN1bHQgMl0iLCJtZXJtYWlkIjp7InRoZW1lIjoiZGVmYXVsdCJ9fQ">live editor</a>]
+</td></tr>
+<tr>
+    <td><pre>
+graph TD
+    <td align="center">
+        <img src="https://raw.githubusercontent.com/mermaid-js/mermaid/master/img/gray-flow.png" />
+    </td>
+</tr>
+<!-- </Flowchart> -->
 
 ## What next?
 
