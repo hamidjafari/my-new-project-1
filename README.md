@@ -29,7 +29,7 @@ This is my final project for the course Building AI from Reaktor and the Univers
 
 ## Background
 
-I am full stack developer in Sounentieto
+I am full stack developer
 
 ## HowToUse
 
