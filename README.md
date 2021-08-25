@@ -42,7 +42,15 @@ main()
 
 ## Data sources and AI methods
 
-This data come from finished training course. 
+Where does your data come from? Do you collect it yourself or do you use data collected by someone else?
+If you need to use links, here's an example:
+[Instagram API](https://developers.facebook.com/docs/instagram-basic-display-api)
+
+| Syntax      | Description |
+| ----------- | ----------- |
+| Header      | Title       |
+| body        | object      |
+
 
 ## Challenges
 
