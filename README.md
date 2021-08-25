@@ -1,10 +1,25 @@
-# AI
+Table of contents
+=================
+
+<!--ts-->
+   * [AI](#ai)
+   * [ProjectTitle](#projecttitle)
+      * [Summary](#summary)
+   * [Background](#background)
+   * [HowToUse](#howtouse)
+   * [DataSourcesAndAPIMethods](#datasourcesandapimethods)
+     * [Challenges](#challenges)
+<!--te-->
+
+
+AI
+============
 Building AI course projekt
 <!-- This is the markdown template for the final project of the Building AI course, 
 created by Reaktor Innovations and University of Helsinki. 
 Copy the template, paste it to your GitHub README and edit! -->
 
-# Project Title
+# ProjectTitle
 
 Final project for the Building AI course
 
@@ -16,7 +31,7 @@ This is my final project for the course Building AI from Reaktor and the Univers
 
 I am full stack developer in Sounentieto
 
-## How is it used?
+## HowToUse
 
 More kind of solution needed (environment, time, etc.) More kind of needs should be taken into account.
 
@@ -40,7 +55,7 @@ export default examples
 main()
 ```
 
-## Data sources and AI methods
+## DataSourcesAndAPIMethods
 
 Where does your data come from?you can use other apps API's like [Instagram API](https://developers.facebook.com/docs/instagram-basic-display-api)
 If you need to use links, here's an example:
@@ -69,7 +84,3 @@ graph TD
     </td>
 </tr>
 <!-- </Flowchart> -->
-
-## What next?
-
-To grow my project I will need more javascript and dom skills.
